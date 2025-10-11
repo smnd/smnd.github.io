@@ -26,9 +26,7 @@ Should not be cached, because included files depend on page.
     rel="stylesheet">
 
   <style id="jtd-nav-activation">
-    {
-      % include css/activation.scss.liquid %
-    }
+    {% include css/activation.scss.liquid %}
   </style>
 
   {% if site.ga_tracking != nil %}

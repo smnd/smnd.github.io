@@ -1,8 +1,8 @@
 ---
+title: Apps
 layout: default
-title: hypotehtical apps
 nav_order: 3
-layout: page
+has_children: true
 ---
 
 - [niftyscan](../apps/niftyscan/)

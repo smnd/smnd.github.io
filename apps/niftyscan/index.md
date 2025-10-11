@@ -1,7 +1,7 @@
 ---
+title: niftyscan
 layout: default
-parent: hypotehtical apps
-title: nifftyscan
+parent: Apps
 nav_order: 1
 ---
 
