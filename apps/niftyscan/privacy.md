@@ -4,59 +4,72 @@ title: Privacy Policy
 nav_exclude: true
 ---
 
-## niftyscan - Privacy Policy
+# Privacy Policy — [App Name] (iOS)
 
-### Summary
+**Effective date:** [DD Month YYYY]  
+**Owner/Operator (Data Controller):** **[Your Full Legal Name]**, an independent developer  
+**Contact:** **niftyscan@hypothetical.ink**
 
-**QR Scan** is designed to work **on-device**. No account is required, and scanning happens locally. You control what is saved or shared.
+## 1) Summary
 
-### Information We Handle
+- **No cloud sync, no tracking, no analytics.**
+    
+- **Scans & history stay on your device.**
+    
+- **Pro is a one-time Apple purchase; we don’t see your card/billing details.**
+    
+- **You can clear history in-app; pinned scans survive bulk delete (and can be deleted individually).**
+    
 
-- **Scan Content:** Detected code data (e.g., URLs, payment QRs, Wi-Fi credentials) is processed **on your device** to show results and actions.  
-- **History (Optional):** You can save scans to your device and delete them anytime.  
-- **iCloud Sync (Optional):** If enabled in iOS settings, Apple may sync your history across devices under Apple’s terms. We do not receive this data.  
-- **Crash/Diagnostics (Optional):** If you opt in, we may receive anonymized crash logs or diagnostics via Apple. These do not include scan content.
+## 2) Data the App handles (on device)
 
-We do **not** collect any data. No data ever leaves your device. We do **not** use scans for advertising.
+- **Scan content & history:** Decoded data and your history list are stored **only on your device**.
+    
+- **Settings & Pro status:** App preferences (e.g., **app lock**) and Pro entitlement state stored locally.
+    
+- **Biometrics (optional):** If you enable app lock, Face ID/Touch ID is used by iOS for authentication. We do **not** access or store biometric data.
+    
+- **Backups:** iOS device backups (e.g., iCloud/iTunes) may include App data; those backups are controlled by you/Apple.
+    
 
-### Permissions
+## 3) Data we do **not** collect
 
-- **Camera:** Required for live scanning.  
-- **Photos (Optional):** If you choose to scan from an image, the App accesses only the image you select.
+We do not collect or store your scan contents, analytics, advertising identifiers, location, contacts, or other telemetry on our servers. We do not include ad/analytics SDKs.
 
-### Sharing
+## 4) Purchases (Apple)
 
-The app does not collect any data. Period. There is nothing to share with anyone unless you choose to share.
+Payments are processed by Apple. We receive only the entitlement/receipt information required to unlock **Pro**. Card/billing details are handled by Apple and are not shared with us. **Refunds follow Apple’s policies.**
 
-### Data Retention & Control
+## 5) Sharing & disclosure
 
-- **On-device:** History stays on your device unless you delete it or enable iCloud.  
-- **iCloud:** Managed by Apple under your iCloud settings.  
-- **Diagnostics:** Retained only as long as necessary for troubleshooting and improving the App.
+We do not sell or share personal data. We may disclose information if required by law or to protect rights/safety.
 
-You can delete history in the App, revoke camera/photos access in **Settings**, and disable iCloud sync at any time.
+## 6) Security
 
-### Security
+Your data remains on your device and benefits from iOS safeguards (device encryption; Secure Enclave for biometrics). No method is 100% secure—use a device passcode and keep iOS updated.
 
-We use reasonable technical and organizational measures to protect information processed by the App. No method is 100% secure.
+## 7) Your choices & controls
 
-### Children
+- **Clear history:** Use the in-app control to delete history. **Pinned scans are retained on bulk delete** and can be removed individually.
+    
+- **Delete everything:** Delete the App (and, if desired, remove device backups).
+    
+- **Permissions:** Control camera access in iOS Settings.
+    
 
-The App is not directed to children under **13** (or the age required by local law). If you believe a child has provided data, contact us to delete it.
+## 8) Children
 
-### International Use
+The App is **not directed to children under 13**. If local law requires a higher minimum age, that higher age applies.
 
-Your use may involve services provided by Apple or others outside your country. Their processing is governed by their terms and privacy policies.
+## 9) International availability
 
-### Changes
+This is a **single global policy**. We do not routinely transfer your scan data to our servers. If you email us for support, any info you voluntarily provide may be processed where we or our providers operate.
 
-We may update this Policy. Material changes will be reflected by updating the **Effective date** and, where required, additional notice.
+## 10) Changes
 
-### Contact
+We may update this Policy. Material changes will be reflected by updating the effective date and, where required, via in-app notice.
 
-For privacy questions or requests: **`[privacy@email.com]`**
+## 11) Contact
 
-### Changelog
-
-- First published: 11 Oct 2025
+**niftyscan@hypothetical.ink**
 

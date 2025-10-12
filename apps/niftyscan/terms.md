@@ -3,51 +3,88 @@ layout: default
 title: Terms of Use
 nav_exclude: true
 ---
+# Terms of Use — [App Name] (iOS)
 
-## niftyscan - Terms of Use
+**Effective date:** [DD Month YYYY]  
+**Owner/Operator:** **[Your Full Legal Name]**, an independent developer (“we”, “us”, “our”).  
+**Contact:** **niftyscan@hypothetical.ink**
 
-### Acceptance
+## 1) Scope
 
-By downloading or using **QR Scan** (“App”), you agree to these Terms. If you do not agree, do not use the App.
+**[App Name]** (the “App”) scans QR codes and barcodes on iOS, shows the decoded data, and keeps an **on-device** history. Some codes (e.g., complex payment QR) are **parsed for readability**. There is **no cloud sync**, **no tracking**, and **no analytics**. An optional one-time **Pro** purchase unlocks **unlimited history, app lock, and pinning**.
 
-### License
+## 2) Agreement
 
-We grant you a personal, revocable, non-transferable license to use the App on your Apple device(s) in accordance with Apple’s App Store terms.
+By installing or using the App, you agree to these Terms and our **Privacy Policy**. If you do not agree, do not use the App.
 
-### Your Responsibilities
+## 3) Eligibility & safe use
 
-- Use the App lawfully and only for its intended purpose (scanning codes you have a right to scan).  
-- Do not reverse engineer, modify, interfere with, or harm the App or its services.  
-- Do not use the App to infringe others’ rights or to engage in fraud.
+Use the App only where lawful and **not while driving** or in unsafe conditions. You must have legal capacity to contract.
 
-### Privacy
+## 4) License
 
-Our **Privacy Policy** explains how we handle information. By using the App, you consent to it.
+We grant you a personal, revocable, non-transferable, non-sublicensable license to use the App on Apple devices you own/control under Apple’s terms.
 
-### No Warranty
+## 5) How the App works
 
-The App is provided **“as is”** and **“as available.”** We disclaim all warranties to the fullest extent permitted by law, including fitness for a particular purpose and non-infringement. We do not guarantee the accuracy of scan results or uninterrupted availability.
+- **Local only:** Scan contents and history stay on your device.
+    
+- **Parsing is informational:** Reformatted/parsed views are for convenience and **not financial, legal, or compliance advice**.
+    
+- **Not a payment processor:** The App does not initiate, process, or guarantee payments.
+    
+- **Permissions:** Camera access is required to scan.
+    
 
-### Limitation of Liability
+## 6) Acceptable use
 
-To the maximum extent permitted by law, we are not liable for indirect, incidental, special, consequential, or punitive damages, or for loss of data, profits, or goodwill. Our total liability for any claim relating to the App will not exceed the amount you paid for the App (if any).
+Do not use the App unlawfully, to scan/store data you have no right to, to reverse engineer, or to interfere with security or operation.
 
-### Third Parties
+## 7) Third-party content
 
-The App may open third-party links or content (e.g., websites from scanned codes). We are not responsible for third-party sites, content, or terms.
+Scans may include third-party links or instructions. Acting on them is at your risk. We do not control or endorse third-party content or outcomes.
 
-### Changes & Termination
+## 8) In-App Purchase (Pro)
 
-We may update, suspend, or discontinue the App at any time. We may change these Terms; continued use means you accept the updated Terms.
+- **Billing & refunds:** Handled by Apple; **refunds follow Apple’s policies**.
+    
+- **One-time unlock:** Pro features: **unlimited history, app lock, pinning**.
+    
+- **Entitlement:** We may validate Pro locally using Apple receipts/entitlements.
+    
 
-### Apple Terms
+## 9) Open-source components
 
-You acknowledge Apple is not responsible for the App, its maintenance, or support; Apple has no warranty obligations for the App. You must comply with applicable Apple terms.
+The App may include open-source components (e.g., a SwiftUI Markdown rendering library). Their licenses are acknowledged in-app or documentation. These components run on-device and do not collect your personal data.
 
-### Governing Law
+## 10) Updates & changes
 
-These Terms are governed by the laws of **`[Country/State]`**, without regard to conflict-of-law rules. Courts of **`[Venue]`** will have exclusive jurisdiction.
+We may update the App or these Terms. Continued use after updates means you accept the changes.
 
-### Contact
+## 11) Termination
 
-Questions about these Terms: **`[support@email.com]`**
+We may suspend or terminate your use for violations or where required by law. You may stop using and delete the App at any time.
+
+## 12) Disclaimers
+
+THE APP IS PROVIDED “AS IS” AND “AS AVAILABLE.” TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES (EXPRESS, IMPLIED, STATUTORY), INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT ACCURACY/COMPLETENESS OF SCANS/PARSING OR UNINTERRUPTED/ERROR-FREE OPERATION.
+
+## 13) Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR LOSS OF DATA/PROFITS/REVENUE. OUR TOTAL LIABILITY WILL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID FOR PRO OR (B) USD $10.
+
+## 14) Indemnity
+
+You agree to indemnify us against claims arising from your unlawful use or breach of these Terms.
+
+## 15) Export & sanctions
+
+You will comply with applicable export control and sanctions laws.
+
+## 16) Governing law & venue
+
+These Terms are governed by the **laws of Singapore**, without regard to conflict-of-laws rules. The **courts of Singapore** have exclusive jurisdiction. **Mandatory consumer protection rules of your country of residence remain unaffected where required by law.**
+
+## 17) Contact
+
+**niftyscan@hypothetical.ink**
