@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Encouraging actions on a mobile home page"
+title: Encouraging actions on a mobile home page
 date: 2025-01-13 19:29:19 +0800
-categories: design product
+categories:
+  - design
+  - product
 ---
 
-# Encouraging actions on a mobile home page
+<h1>{{ page.title }}</h1>
+Too much info causes decision fatigue. It kills clicks; especially on home screens. Show only the few signals that drive choice. Push the rest one tap deeper. For a deal card, show price; hide location or rating unless they truly matter.
 
-High information density causes decision fatigue. It is a CTR killer everywhere. But more so on app home pages. Identify key decision variables and highlight only those. Put details a step away. (For example, when listing a deal, the price is important but location or rating may not be.)
+If you want exploration, add novelty. Rotate content. If the page never changes, people stop visiting. You teach them not to expect anything new. Not every app can refresh often, and that’s fine; pick a cadence you can keep.
 
-If encouraging exploration is an objective, then there needs to be novelty on the page. Customers will stop returning if they see the same thing every time. You are teaching them “do not expect anything new”. Not all apps can do this. And that is fine.
+Add visual breaks. Long scrolls of similar cards tire the eye. Mix layouts or content types to reset attention.
 
-Provide visual breaks. Exploration fatigue kicks in if customers see similar visual elements for too long. These can simply be differences in templates, or different types of content.
-
-The breaks are also good entry points to handholding actions. These nudge customers to the right section of the app without putting in effort. (For example, exposing content filters after a few scrolls.)
+Use those breaks as gentle guides. Add small prompts that guide people with little effort; for example, show filters after a few scrolls.
