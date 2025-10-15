@@ -2,8 +2,10 @@
 layout: default
 title: Terms of Use
 nav_exclude: true
+published: false
 ---
-# Terms of Use — [App Name] (iOS)
+
+# NiftyScan / Terms of Use
 
 **Effective date:** [DD Month YYYY]  
 **Owner/Operator:** **[Your Full Legal Name]**, an independent developer (“we”, “us”, “our”).  

@@ -2,9 +2,10 @@
 layout: default
 title: Privacy Policy
 nav_exclude: true
+published: false
 ---
 
-# Privacy Policy — [App Name] (iOS)
+# NiftyScan / Privacy Policy
 
 **Effective date:** [DD Month YYYY]  
 **Owner/Operator (Data Controller):** **[Your Full Legal Name]**, an independent developer  

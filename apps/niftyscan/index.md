@@ -1,13 +1,15 @@
 ---
-title: niftyscan
+title: NiftyScan
 layout: default
 parent: Apps
 nav_order: 1
+published: false
 ---
+
 # App metadata (final)
 
 **App Name (≤30):**  
-niftyscan
+NiftyScan
 
 **Subtitle (≤30):**  
 Fast, private code scanning
@@ -16,7 +18,7 @@ Fast, private code scanning
 Scan QR & barcodes fast. Parse payment codes (SGQR/PayNow, DuitNow, UPI). History stays on your iPhone. Pro unlocks unlimited history, App Lock, pinning.
 
 **Description (store text):**  
-niftyscan reads any QR or barcode in a snap—and keeps your data on your iPhone. It also parses supported payment QR codes (SGQR/PayNow, DuitNow, UPI) to show the embedded fields in plain English, so you can quickly verify what you’re scanning. No accounts. No tracking. No analytics.
+NiftyScan reads any QR or barcode in a snap—and keeps your data on your iPhone. It also parses supported payment QR codes (SGQR/PayNow, DuitNow, UPI) to show the embedded fields in plain English, so you can quickly verify what you’re scanning. No accounts. No tracking. No analytics.
 
 WHAT MAKES IT DIFFERENT  
 • Private by design: All scans and history stay on device  
