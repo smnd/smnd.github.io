@@ -6,6 +6,7 @@ nav_order: 2
 
 {% assign posts = site.posts | sort: 'date' | reverse %}
 {% for post in posts %}
-{{post.content}}
-[{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%b %d, %Y" }}
+[{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%b %d, %Y"}}
+<br/>
+{{post.summary}}
 {% endfor %}
