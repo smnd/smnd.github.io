@@ -131,6 +131,8 @@ nav_external_links:
   - title: Photos
     url: https://suman.photos
 
+nav_external_links_new_tab: true # open external links in a new tab
+
 # Show navigation error report
 nav_error_report: true # default is false/nil.
 
