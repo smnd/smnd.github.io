@@ -2,7 +2,7 @@
 layout: default
 title: Encouraging Actions on a Mobile Home page
 date: 16-10-2025 07:25:34 +0800
-categories: product design
+category: product
 summary: Show only the key facts on the home screen and push details one tap deeper to avoid decision fatigue. Keep exploration alive with fresh content, visual breaks, and gentle nudges. 
 ---
 

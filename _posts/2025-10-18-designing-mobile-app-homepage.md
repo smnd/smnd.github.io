@@ -2,7 +2,7 @@
 layout: post
 title: Designing Mobile App Homepages
 date: 18-10-2025 09:43:47 +0800
-categories: product design
+category: product
 summary: The home page matters most; keep it fresh or users stop expecting anything new and drop off. Match the app’s job - exploration apps can lean on novelty, while need-based should prioritize core actions over filler content.
 ---
 

@@ -144,7 +144,7 @@ liquid:
 # appears at the bottom of every page's main content
 
 # Back to top link
-back_to_top: true
+back_to_top: false
 back_to_top_text: "Back to top"
 
 footer_content: 'Copyright &copy; 2020-2025 Suman De.'
