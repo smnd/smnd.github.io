@@ -2,7 +2,7 @@
 layout: default
 title: Privacy Policy
 nav_exclude: true
-published: false
+published: true
 ---
 
 # NiftyScan / Support

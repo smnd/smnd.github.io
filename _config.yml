@@ -130,6 +130,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 nav_external_links:
   - title: Photos
     url: https://suman.photos
+  - title: Instagram
+    url: https://instagram.com/_smnd
 
 nav_external_links_new_tab: true # open external links in a new tab
 

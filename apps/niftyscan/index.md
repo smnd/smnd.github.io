@@ -3,21 +3,19 @@ title: NiftyScan
 layout: default
 parent: Apps
 nav_order: 1
-published: false
+published: true
 ---
 
-# App metadata (final)
+# NiftyScan
 
-**App Name (≤30):**  
-NiftyScan
+> Fast, private code scanning
 
-**Subtitle (≤30):**  
-Fast, private code scanning
+## TL;DR
 
-**Promotional Text (≤170):**  
 Scan QR & barcodes fast. Parse payment codes (SGQR/PayNow, DuitNow, UPI). History stays on your iPhone. Pro unlocks unlimited history, App Lock, pinning.
 
-**Description (store text):**  
+## About
+
 NiftyScan reads any QR or barcode in a snap—and keeps your data on your iPhone. It also parses supported payment QR codes (SGQR/PayNow, DuitNow, UPI) to show the embedded fields in plain English, so you can quickly verify what you’re scanning. No accounts. No tracking. No analytics.
 
 WHAT MAKES IT DIFFERENT  
@@ -26,38 +24,40 @@ WHAT MAKES IT DIFFERENT
 • Clean history: Search, copy, share; clear anytime  
 • Pro tools: Unlimited history, App Lock (Face ID/Touch ID), Pin scans protected during bulk clear
 
-HOW IT WORKS
+### HOW IT WORKS
 
 1. Open and point the camera—auto-detects QR & barcodes
-    
-2. See raw data and, when applicable, a readable payment breakdown
-    
-3. Tap to copy or share
-    
-4. Manage history; with Pro you can pin and lock
-    
 
-WHO IT’S FOR  
+2. See raw data and, when applicable, a readable payment breakdown
+
+3. Tap to copy or share
+
+4. Manage history; with Pro you can pin and lock
+
+
+### WHO IT’S FOR  
+
 • Shoppers and power users who want a fast scanner without data leaving their phone  
 • Small businesses verifying payment QR contents  
 • Anyone who values speed, clarity, and privacy
 
-PRO MODE (ONE-TIME PURCHASE)  
+### PRO MODE (ONE-TIME PURCHASE)
+
 • Unlimited history  
 • App Lock (Face ID/Touch ID)  
 • Pin scans (kept during bulk clear)
 
-PRIVACY  
-• No cloud sync (yet). No tracking. No analytics.  
-• Data is stored locally on your device.  
+### PRIVACY
+
+• No cloud sync. No tracking. No analytics.  
+• Data is stored locally on your device.
+
 This app does not process payments; it only reads code contents. Brand names mentioned are for compatibility and identification only.
 
 Support: niftyscan@hypothetical.ink  
 Terms: https://hypothetical.ink/apps/niftyscan/terms  
 Privacy: https://hypothetical.ink/apps/niftyscan/privacy
 
-**Keywords (≤100 chars, comma-separated):**  
-qr,barcode,scanner,reader,private,offline,history,sgqr,paynow,duitnow,upi,parse
 
 **Primary Category:** Utilities  
 **Secondary Category:** Productivity  

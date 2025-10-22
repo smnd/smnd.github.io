@@ -1,0 +1,26 @@
+{% raw %}
+<script>
+    (function () {
+        var KEY = 'jtd-theme';
+        var mq = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)');
+        function sys() { return mq && mq.matches ? 'dark' : 'light'; }
+        function get() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
+        function set(v) { try { localStorage.setItem(KEY, v); } catch (e) { } }
+        function apply(m) { if (window.jtd && jtd.setTheme) jtd.setTheme(m); }
+        function iconFor(m) { return m === 'dark' ? 'dark_mode' : 'light_mode'; }
+
+        function initToggle() {
+            var btn = document.getElementById('theme-toggle'); if (!btn) return;
+            btn.textContent = iconFor(get() || sys());
+            btn.addEventListener('click', function () {
+                var current = get() || sys();
+                var next = current === 'dark' ? 'light' : 'dark';
+                set(next);
+                apply(next);
+                btn.textContent = iconFor(next);
+            });
+        }
+        if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initToggle); else initToggle();
+    })();
+</script>
+{% endraw %}

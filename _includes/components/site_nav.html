@@ -47,9 +47,10 @@
             <ul class="nav-list nav-category-list">
               <li class="nav-list-item">
                 {%- if collection.size > 0 -%}
-                <button class="nav-list-expander btn-reset" aria-label="Toggle collection {{ collection_value.name }}" aria-pressed="false">
+                <!-- TODO: uncomment to re-enable the expanded view of child pages -->
+                <!-- <button class="nav-list-expander btn-reset" aria-label="Toggle collection {{ collection_value.name }}" aria-pressed="true">
                   <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
-                </button>
+                </button> -->
                 {%- endif -%}
                 <div class="nav-category">{{ collection_value.name }}</div>
                 {% include components/nav/pages.html pages=collection all=include.all %}
@@ -65,6 +66,7 @@
       {% endif %}
     {% endfor %}
   {% endif %}
+  <span id="theme-toggle" class="material-symbols-outlined theme-toggle" role="button" tabindex="0" aria-label="Toggle theme" style="cursor:pointer">light_mode</span>
 </nav>
 
 {% if site.nav_error_report %}

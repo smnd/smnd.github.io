@@ -1,3 +1,32 @@
 {%- if site.footer_content -%}
-  <p class="text-small text-grey-dk-100 mb-0">{{ site.footer_content }}</p>
+<p class="text-small text-grey-dk-100 mb-0">{{ site.footer_content }}</p>
 {%- endif -%}
+
+{% raw %}
+<script>
+(function(){
+  var KEY='jtd-theme';
+  var mq=window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)');
+  function sys(){ return mq && mq.matches ? 'dark' : 'light'; }
+  function pref(){ try{ return localStorage.getItem(KEY); }catch(e){ return null; } }
+  function apply(mode){
+    if(window.jtd && typeof jtd.setTheme==='function') jtd.setTheme(mode);
+    else {
+      var link=document.querySelector('link[rel="stylesheet"]');
+      if(link) link.href='{{ "/assets/css/just-the-docs-" | relative_url }}'+mode+'.css';
+    }
+  }
+  function init(){
+    var chosen = pref() || sys();
+    apply(chosen);
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded', init); else init();
+
+  if(mq && (mq.addEventListener || mq.addListener)){
+    var h=function(){ if(!pref()) apply(sys()); };
+    (mq.addEventListener ? mq.addEventListener('change', h) : mq.addListener(h));
+  }
+  window.addEventListener('pageshow', function(){ apply(pref() || sys()); });
+})();
+</script>
+{% endraw %}
