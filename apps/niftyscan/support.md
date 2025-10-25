@@ -133,4 +133,4 @@ I am one person, with a day job. I will not be able to acknowledge or reply all 
 - [Terms of Use](terms)
 - [Privacy Policy](privacy)
 
-<p style="color: #666">Last updated: 25 Oct 2025</p>
+<p style="color: #666;">Last updated: 25 Oct 2025</p>
