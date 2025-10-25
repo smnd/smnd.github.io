@@ -14,9 +14,9 @@ published: true
 
 Scan QR & barcodes fast. Parse payment codes (SGQR/PayNow, DuitNow, UPI). History stays on your iPhone. Pro unlocks unlimited history, App Lock, pinning.
 
-**About NiftyScan**
+### About NiftyScan
 
-NiftyScan reads any QR or barcode in a snap, and keeps your data on your iPhone. It also parses supported payment QR codes (SGQR/PayNow, DuitNow, UPI) to show the embedded fields in plain English, so you can quickly verify what you’re scanning. Or, if you are just curious. 
+NiftyScan reads any QR or barcode in a snap, and keeps your data on your iPhone. It also parses supported payment QR codes (SGQR/PayNow, DuitNow, UPI) to show the embedded fields in plain English, so you can quickly verify what you’re scanning. Or, if you are just curious.
 
 No accounts. No tracking. No analytics.
 
@@ -44,9 +44,9 @@ No accounts. No tracking. No analytics.
 
 This is not a subscription. Pay once, use forever. All future pro features available by default.
 
-* Unlimited history (free version limited to 10 most recent scans)
-* App Lock with Face ID
-* Pin scans that preserve bulk clears
+- Unlimited history (free version limited to 10 most recent scans)
+- App Lock with Face ID
+- Pin scans that preserve bulk clears
 
 Note:
 [1] This app does not process payments; it only reads code contents. Brand names mentioned are for compatibility and identification only.
@@ -82,17 +82,11 @@ Unlock unlimited history, App Lock, and Pin scans.
 # Screenshot plan (short overlays)
 
 1. Camera view: “Scan QR & Barcodes—Fast”
-    
 2. Parsed payment: “Understand Payment Codes” (SGQR/PayNow, DuitNow, UPI)
-    
 3. History list: “On-Device History” / “No Tracking”
-    
 4. Pinned item: “Pin Important Scans (Pro)”
-    
 5. Lock screen: “App Lock (Face ID/Touch ID)”
-    
 6. Settings: “Clear History Anytime”
-    
 
 Tips: keep overlays to 3–5 words, large safe margins, light/dark pairs for variety.
 
@@ -117,7 +111,5 @@ Initial release: fast QR & barcode scanning, on-device history, payment QR parsi
 ## Notes & next steps
 
 - Price: pick the Apple tier closest to **SGD 20** for the Pro IAP.
-    
 - Keep “payment parsing” to only **SGQR/PayNow, DuitNow, UPI** in copy and screenshots (no other brands).
-    
 - If you add iCloud sync later, update the description and privacy label.
