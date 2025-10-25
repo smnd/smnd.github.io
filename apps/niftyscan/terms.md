@@ -8,9 +8,7 @@ hide_search_bar: true
 
 # NiftyScan / Terms of Use
 
-**Effective date:** 01 November 2025  
-**Contact:** [niftyscan@hypothetical.ink](mailto:niftyscan@hypothetical.ink)
-**Owner/Operator:** **Suman De**, an independent developer (“we”, “us”, “our”).
+> **Owner/Operator:** **Suman De**, an independent developer (“we”, “us”, “our”)
 
 ## Scope
 
