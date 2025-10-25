@@ -82,5 +82,3 @@ These Terms are governed by the **laws of Singapore**, without regard to conflic
 ## Contact
 
 [niftyscan@hypothetical.ink](mailto:niftyscan@hypothetical.ink)
-
-<!-- <p style="color: #666">Last updated: 25 Oct 2025</p> -->
