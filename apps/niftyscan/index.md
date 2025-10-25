@@ -14,54 +14,46 @@ published: true
 
 Scan QR & barcodes fast. Parse payment codes (SGQR/PayNow, DuitNow, UPI). History stays on your iPhone. Pro unlocks unlimited history, App Lock, pinning.
 
-## About
+**About NiftyScan**
 
-NiftyScan reads any QR or barcode in a snap—and keeps your data on your iPhone. It also parses supported payment QR codes (SGQR/PayNow, DuitNow, UPI) to show the embedded fields in plain English, so you can quickly verify what you’re scanning. No accounts. No tracking. No analytics.
+NiftyScan reads any QR or barcode in a snap, and keeps your data on your iPhone. It also parses supported payment QR codes (SGQR/PayNow, DuitNow, UPI) to show the embedded fields in plain English, so you can quickly verify what you’re scanning. Or, if you are just curious. 
 
-WHAT MAKES IT DIFFERENT  
-• Private by design: All scans and history stay on device  
-• Payment QR parsing: Human-readable fields for SGQR/PayNow, DuitNow, UPI  
-• Clean history: Search, copy, share; clear anytime  
-• Pro tools: Unlimited history, App Lock (Face ID/Touch ID), Pin scans protected during bulk clear
+No accounts. No tracking. No analytics.
 
-### HOW IT WORKS
+**There are a million QR scanners out there. How is this different?**
 
-1. Open and point the camera—auto-detects QR & barcodes
+- **Private by design**: All scans and history stay on device. No tracking. No ads.
+- **Payment QR parsing**: Human-readable fields for SGQR/PayNow, DuitNow, UPI.
+- **Clean history**: Search, copy, share; clear anytime  
+- **Pro tools**: Unlimited history, App Lock, Pinned scans
 
+**How does the app work?**
+
+1. Open and point the camera; auto-detects QR & barcodes
 2. See raw data and, when applicable, a readable payment breakdown
-
-3. Tap to copy or share
-
+3. Tap to copy or share; Open links
 4. Manage history; with Pro you can pin and lock
 
+**Who is this app for?**
 
-### WHO IT’S FOR  
+- Shoppers and power users who want a fast scanner with history; but without data leaving their phone  
+- Small businesses, fintech builders and curious minds who want to understand whats in the QR
+- Anyone who values speed, clarity, and privacy
 
-• Shoppers and power users who want a fast scanner without data leaving their phone  
-• Small businesses verifying payment QR contents  
-• Anyone who values speed, clarity, and privacy
+**What does PRO Include?**
 
-### PRO MODE (ONE-TIME PURCHASE)
+This is not a subscription. Pay once, use forever. All future pro features available by default.
 
-• Unlimited history  
-• App Lock (Face ID/Touch ID)  
-• Pin scans (kept during bulk clear)
+* Unlimited history (free version limited to 10 most recent scans)
+* App Lock with Face ID
+* Pin scans that preserve bulk clears
 
-### PRIVACY
+Note:
+[1] This app does not process payments; it only reads code contents. Brand names mentioned are for compatibility and identification only.
 
-• No cloud sync. No tracking. No analytics.  
-• Data is stored locally on your device.
+For any questions, feedback or partnership, please reach out at [niftyscan@hypothetical.ink](niftyscan@hypothetical.ink).
 
-This app does not process payments; it only reads code contents. Brand names mentioned are for compatibility and identification only.
-
-Support: niftyscan@hypothetical.ink  
-Terms: https://hypothetical.ink/apps/niftyscan/terms  
-Privacy: https://hypothetical.ink/apps/niftyscan/privacy
-
-
-**Primary Category:** Utilities  
-**Secondary Category:** Productivity  
-**Age Rating:** 4+
+[About NiftyScan](index) – [Terms of Use](terms) – [Privacy Policy](privacy) – [Support](support)
 
 ---
 
@@ -119,15 +111,6 @@ Tips: keep overlays to 3–5 words, large safe margins, light/dark pairs for var
 # What’s New (for 1.0)
 
 Initial release: fast QR & barcode scanning, on-device history, payment QR parsing (SGQR/PayNow, DuitNow, UPI). Pro adds unlimited history, App Lock, and Pin scans.
-
----
-
-# URLs (to set in App Store Connect)
-
-**Marketing URL:** [https://hypothetical.ink/apps/niftyscan](https://hypothetical.ink/apps/niftyscan)  
-**Support URL (Apple requires a URL):** suggest https://hypothetical.ink/apps/niftyscan/support (publish your support email on this page)  
-**Privacy Policy URL:** https://hypothetical.ink/apps/niftyscan/privacy  
-**Terms URL (optional but recommended):** https://hypothetical.ink/apps/niftyscan/terms
 
 ---
 
