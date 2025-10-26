@@ -51,7 +51,7 @@ This is not a subscription. Pay once, use forever. All future pro features avail
 Note:
 [1] This app does not process payments; it only reads code contents. Brand names mentioned are for compatibility and identification only.
 
-For any questions, feedback or partnership, please reach out at [niftyscan@hypothetical.ink](niftyscan@hypothetical.ink).
+For any questions, feedback or partnership, please reach out at [{{ site.data.links.niftyscan.support.email }}]({{ site.data.links.niftyscan.support.mailto }}).
 
 [About NiftyScan](index) – [Terms of Use](terms) – [Privacy Policy](privacy) – [Support](support)
 

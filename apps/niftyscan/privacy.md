@@ -9,7 +9,7 @@ hide_search_bar: true
 # NiftyScan / Privacy Policy
 
 **Effective date:** 01 November 2025  
-**Contact:** [niftyscan@hypothetical.ink](mailto:niftyscan@hypothetical.ink)
+**Contact:** [{{ site.data.links.niftyscan.support.email }}]({{ site.data.links.niftyscan.support.mailto }})
 
 ## Summary
 
@@ -31,7 +31,7 @@ We do not collect or store your scan contents, analytics, advertising identifier
 
 ## Purchases
 
-Payments are processed by Apple. We receive only the receipt information required to unlock **Pro**. Card/billing details are handled by Apple and are not shared with us. **Refunds follow Apple’s policies.** Request refunds via Apple’s **[Report a Problem](https://support.apple.com/en-us/118223)** site using your Apple ID.
+Payments are processed by Apple. We receive only the receipt information required to unlock **Pro**. Card/billing details are handled by Apple and are not shared with us. **Refunds follow Apple’s policies.** Request refunds via Apple’s **[Report a Problem]({{ site.data.links.refund_url }})** site using your Apple ID.
 
 ## Sharing & Disclosure
 
@@ -59,8 +59,4 @@ This is a **single global policy**. If you email us for support, any info you vo
 
 We may update this Policy. Material changes will be reflected by updating the effective date and, where required, via in-app notice.
 
-## Contact
-
-[niftyscan@hypothetical.ink](mailto:niftyscan@hypothetical.ink)
-
-<p style="color: #666;">Last updated: 25 Oct 2025</p>
+<p style="color: #888;">Last updated: {{ site.data.links.niftyscan.last_updated }}</p>

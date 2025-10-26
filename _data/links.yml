@@ -1,0 +1,10 @@
+# Apple and App Store
+refund_url: https://support.apple.com/en-us/118223
+
+# NiftyScan
+niftyscan:
+  support:
+    email: niftyscan@hypothetical.ink
+    mailto: mailto:niftyscan@hypothetical.ink
+    text: Email support
+  last_updated: 01 November 2025

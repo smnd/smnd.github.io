@@ -43,7 +43,7 @@ Scans may include third-party links or instructions. Acting on them is at your r
 
 ## In-App Purchase (Pro)
 
-- **Billing & refunds:** Handled by Apple; **refunds follow Apple’s policies**. **[Report a Problem](https://support.apple.com/en-us/118223)** site using your Apple ID for refunds.
+- **Billing & refunds:** Handled by Apple; **refunds follow Apple’s policies**. **[Report a Problem]({{ site.data.links.refund_url }})** site using your Apple ID for refunds.
 - **One-time unlock:** Pro features: **unlimited history, app lock, pinning**.
 - **Entitlement:** We may validate Pro purchase locally using Apple receipts/entitlements.
 
@@ -79,4 +79,4 @@ You will comply with applicable export control and sanctions laws.
 
 These Terms are governed by the **laws of Singapore**, without regard to conflict-of-laws rules. The **courts of Singapore** have exclusive jurisdiction. **Mandatory consumer protection rules of your country of residence remain unaffected where required by law.**
 
-<p style="color: #666;">Last updated: 25 Oct 2025</p>
+<p style="color: #888;">Last updated: {{ site.data.links.niftyscan.last_updated }}</p>

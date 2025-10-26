@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Privacy Policy
+title: Support
 nav_exclude: true
 search_exclude: true
 hide_search_bar: true
@@ -8,7 +8,7 @@ hide_search_bar: true
 
 # NiftyScan / Support
 
-Welcome to the help hub for **NiftyScan**. This page answers common questions and shows quick fixes. If you’re stuck, email me anytime at **[niftyscan@hypothetical.ink](mailto:niftyscan@hypothetical.ink)**.
+Welcome to the help hub for **NiftyScan**. This page answers common questions and shows quick fixes. If you’re stuck, email me anytime at **[{{ site.data.links.niftyscan.support.email }}]({{ site.data.links.niftyscan.support.mailto }})**.
 
 ## Frequently Asked Questions
 
@@ -21,7 +21,7 @@ Welcome to the help hub for **NiftyScan**. This page answers common questions an
 4. **What’s in Pro?**
     - **Unlimited history** (limited to most recent 10 scans in free), **App Lock** (Face ID / Touch ID), and **Pin** scans so they’re not removed during bulk clear. I will keep adding new Pro features in the future.
 5. **How do I request a refund?**
-    - Purchases are handled by Apple. Request refunds via Apple’s **[Report a Problem](https://support.apple.com/en-us/118223)** site using your Apple ID.
+    - Purchases are handled by Apple. Request refunds via Apple’s **[Report a Problem]({{ site.data.links.refund_url }})** site using your Apple ID.
 
 ## Getting Started
 
@@ -97,12 +97,12 @@ One-time purchase. No subscriptions. Buy once and use all current and future pro
 ### Pro not recognised after reinstall
 
 - Open **Settings → Upgrade to Pro → Restore Purchases** using the same Apple ID used to buy Pro or restore on a new device/after reinstall.
-- Still stuck? [Email us](mailto:niftyscan@hypothetical.ink) with your **App Store receipt**.
+- Still stuck? [Email us]({{ site.data.links.niftyscan.support.mailto }})) with your **App Store receipt**.
 
 ## Purchases, Pricing & Refunds
 
 - **Pricing:** Pro is a one-time purchase. Final local price is shown by Apple at checkout.
-- **Refunds:** Managed by Apple via your Apple ID (**[Report a Problem](https://support.apple.com/en-us/118223)** site). We can’t issue or approve refunds directly.
+- **Refunds:** Managed by Apple via your Apple ID (**[Report a Problem]({{ site.data.links.refund_url }})** site). We can’t issue or approve refunds directly.
 
 ## Compatibility & permissions
 
@@ -114,11 +114,11 @@ One-time purchase. No subscriptions. Buy once and use all current and future pro
 
 ## Accessibility
 
-We’re improving support for assistive technologies. Today, NiftyScan uses standard iOS controls but some areas may not be fully optimised for **VoiceOver**, **Dynamic Type**, or **high-contrast** use. If you rely on these features and hit an issue, please email **[niftyscan@hypothetical.ink](mailto:niftyscan@hypothetical.ink)** with details so I can prioritise fixes.
+We’re improving support for assistive technologies. Today, NiftyScan uses standard iOS controls but some areas may not be fully optimised for **VoiceOver**, **Dynamic Type**, or **high-contrast** use. If you rely on these features and hit an issue, please [email us]({{ site.data.links.niftyscan.support.mailto }})) with details so I can prioritise fixes.
 
 ## Contact me
 
-Most issues are solved when we get the right details. When you write to **[niftyscan@hypothetical.ink](mailto:niftyscan@hypothetical.ink)**, please include:
+Most issues are solved when we get the right details. When you write to **[{{ site.data.links.niftyscan.support.email }}]({{ site.data.links.niftyscan.support.mailto }})**, please include:
 
 - App version (Settings → About)
 - iPhone model and iOS version
@@ -133,4 +133,4 @@ I am one person, with a day job. I will not be able to acknowledge or reply all 
 - [Terms of Use](terms)
 - [Privacy Policy](privacy)
 
-<p style="color: #666;">Last updated: 25 Oct 2025</p>
+<p style="color: #888;">Last updated: {{ site.data.links.niftyscan.last_updated }}</p>
