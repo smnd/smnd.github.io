@@ -79,6 +79,4 @@ You will comply with applicable export control and sanctions laws.
 
 These Terms are governed by the **laws of Singapore**, without regard to conflict-of-laws rules. The **courts of Singapore** have exclusive jurisdiction. **Mandatory consumer protection rules of your country of residence remain unaffected where required by law.**
 
-## Contact
-
-[niftyscan@hypothetical.ink](mailto:niftyscan@hypothetical.ink)
+<p style="color: #666;">Last updated: 25 Oct 2025</p>

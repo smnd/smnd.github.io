@@ -62,3 +62,5 @@ We may update this Policy. Material changes will be reflected by updating the ef
 ## Contact
 
 [niftyscan@hypothetical.ink](mailto:niftyscan@hypothetical.ink)
+
+<p style="color: #666;">Last updated: 25 Oct 2025</p>

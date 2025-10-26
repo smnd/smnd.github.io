@@ -41,9 +41,7 @@ Should not be cached, because included files depend on page.
   <!-- <link rel="stylesheet" href="{{ '/assets/css/overrides.css' | relative_url }}"> -->
 
   <style id="jtd-nav-activation">
-    {
-      % include css/activation.scss.liquid %
-    }
+    {% include css/activation.scss.liquid %}
   </style>
 
   {% if site.ga_tracking != nil %}
