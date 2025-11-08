@@ -17,7 +17,7 @@ has_toc: false
 
 ## Email & Domain Tools
 
-- [**MX Record Checker**](https://tools.smnd.xyz/mx-checker){:target="_blank"} - Verify email domains in bulk by checking MX (Mail Exchange) records. Upload CSV files or enter domains manually to validate email deliverability. [Read more →](https://github.com/smnd/tools.smnd.xyz){:target="_blank"}
+- [**MX Record Checker**](https://tools.smnd.xyz/mx-check){:target="_blank"} - Verify email domains in bulk by checking MX (Mail Exchange) records. Upload CSV files or enter domains manually to validate email deliverability. [Read more →](https://github.com/smnd/tools.smnd.xyz){:target="_blank"}
 
 ## Links
 
