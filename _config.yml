@@ -128,6 +128,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
+  - title: Apps & Tools
+    url: https://tools.smnd.xyz/
   - title: Photos
     url: https://suman.photos
   - title: Instagram
