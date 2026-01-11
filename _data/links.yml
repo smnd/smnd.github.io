@@ -3,6 +3,7 @@ refund_url: https://support.apple.com/en-us/118223
 
 # NiftyScan
 niftyscan:
+  download_url: https://apps.apple.com/us/app/niftyscan-everyday-scanner/id6753195099
   support:
     email: niftyscan@hypothetical.ink
     mailto: mailto:niftyscan@hypothetical.ink

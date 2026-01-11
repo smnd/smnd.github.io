@@ -14,6 +14,8 @@ published: true
 
 Scan QR & barcodes fast. Parse payment codes (SGQR/PayNow, DuitNow, UPI). History stays on your iPhone. Pro unlocks unlimited history, App Lock, pinning.
 
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]({{ site.data.links.niftyscan.download_url }})
+
 ### About NiftyScan
 
 NiftyScan reads any QR or barcode in a snap, and keeps your data on your iPhone. It also parses supported payment QR codes (SGQR/PayNow, DuitNow, UPI) to show the embedded fields in plain English, so you can quickly verify what you’re scanning. Or, if you are just curious.
