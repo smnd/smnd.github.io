@@ -9,7 +9,7 @@ has_toc: false
 
 ## QR Code Tools
 
-- [**NiftyScan - Fast, Private**](../apps/niftyscan/){:target="_blank"}. [Coming Soon] Scan QR & barcodes fast. Parse payment codes (SGQR/PayNow, DuitNow, UPI). History stays on your iPhone.
+- [**NiftyScan - Fast, Private**](../apps/niftyscan/){:target="_blank"}. Scan QR & barcodes fast. Parse payment codes (SGQR/PayNow, DuitNow, UPI). History stays on your iPhone.
 
 - [**QR Code Generator**](https://tools.smnd.xyz/qr-code){:target="_blank"} - Generate QR codes instantly from any text or URL. Download as PNG or SVG with automatic input persistence. [Read more →](https://github.com/smnd/tools.smnd.xyz){:target="_blank"}
 
