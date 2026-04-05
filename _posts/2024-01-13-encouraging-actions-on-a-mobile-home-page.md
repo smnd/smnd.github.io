@@ -2,7 +2,9 @@
 layout: post
 title: Encouraging Actions on a Mobile Homepage
 date: 13-01-2024 12:00:00 +0800
-categories: product design
+categories: 
+    - product 
+    - design
 summary: Show only the key facts on the home screen and push details one tap deeper to avoid decision fatigue. Keep exploration alive with fresh content, visual breaks, and gentle nudges. 
 ---
 

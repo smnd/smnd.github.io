@@ -18,7 +18,7 @@ title: hypothetical
 # description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hypothetical.ink" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+repository: smnd/smnd.github.io # for github-metadata
 
 permalink: /blog/:slug
 
@@ -97,7 +97,7 @@ enable_copy_code_button: true
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "9.1.6"
+  version: "11.4.1"
   # Put any additional configuration, such as setting the theme, in _includes/mermaid_config.js
   # See also docs/ui-components/code
   # To load mermaid from a local library, also use the `path` key to specify the location of the library; e.g.
@@ -153,7 +153,7 @@ liquid:
 back_to_top: false
 back_to_top_text: "Back to top"
 
-footer_content: 'Copyright &copy; 2020-2025 Suman De.'
+footer_content: 'Copyright &copy; 2020-2026 Suman De.'
 
 # Footer last edited timestamp
 # last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

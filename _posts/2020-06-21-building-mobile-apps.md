@@ -2,7 +2,9 @@
 layout: post
 title: Building Mobile Apps
 date: 21-06-2020 12:00:00 +0800
-categories: product design
+categories: 
+    - product 
+    - design
 summary: I led Cleartrip’s mobile apps in 2014–16 during India’s early mobile boom earning Editor’s Choice on both stores plus design awards. Key lessons still hold - cut input friction and taps, remember context, anticipate needs, reveal details progressively, handle errors well, design for journeys and retention, use device features within limits, and respect native platform patterns.
 ---
 

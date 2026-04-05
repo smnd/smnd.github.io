@@ -2,7 +2,8 @@
 layout: post
 title: Analyzing Metric Changes
 date: 15-07-2020 12:00:00 +0800
-categories: product
+categories: 
+    - product
 summary: A framework for analyzing metric changes in a product. There are things in your control and some that are not. How do you explain the change?
 published: true
 ---
