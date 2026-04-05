@@ -116,3 +116,4 @@ Before deploying a post, verify all of these:
 - Commit each post as a separate commit with message format: `publish: {slug}` (new) or `update: {slug}` (existing).
 - Do not add co-authored by Claude when committing blog posts and content pages.
 - Do not modify or delete other posts in the same commit.
+- When committing and pushing any file in `_posts/`, update the `date` frontmatter field to the current date and time (in `DD-MM-YYYY HH:MM:SS +0800` format) before committing. This only applies to post files that are part of the commit — do not touch posts that are not being changed.

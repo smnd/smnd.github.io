@@ -13,7 +13,7 @@ I write to figure out what I think. Most of it starts as a hypothesis about prod
 
 **Start here** (this list will probably not be updated as often as it should be)
 
-[First Principles](<./first-principles.md>) -- Starting from what is true, not what is conventional.
+[First Principles](/blog/first-principles) -- Starting from what is true, not what is conventional.
 
 [Evolution of Intent](/blog/evolution-of-intent) -- How intent shifted from implied to explicit, and what that means for product.
 
