@@ -28,3 +28,6 @@ node_modules
 *.gem
 .bundle
 .ruby-version
+
+# Playwright MCP session artifacts (snapshots, logs, screenshots)
+.playwright-mcp/
