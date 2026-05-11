@@ -60,7 +60,7 @@ Blog posts are authored in an Obsidian vault and deployed to this repo by Claude
 
 ### Vault Location
 
-The Obsidian vault is at: /Users/suman/Documents/Obsidian/smnd/
+The Obsidian vault is at: /Users/suman/Documents/Obsidian/smnd-cc/
 
 Posts ready for deployment are in: {vault-path}/blog/
 The pipeline tracker is at: {vault-path}/blog/_pipeline.md
